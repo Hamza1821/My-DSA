@@ -1,7 +1,7 @@
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
 import java.util.*;
-class HelloWorld {
+class countNumbers {
     public static void main(String[] args) {
         int num ,positive=0,negative=0,zeros=0;
      int choice =1;
