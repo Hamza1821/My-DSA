@@ -112,3 +112,4 @@ class LLQ1{
       
     }
 }
+//by hamza
