@@ -15,6 +15,8 @@ class LLQ1{
             this.next=null;
         }
         
+
+
     }
     node head;
   //  add first
